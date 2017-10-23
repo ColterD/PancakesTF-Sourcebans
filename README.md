@@ -1,4 +1,4 @@
-# PancakesGG-Sourcebans
+# PancakesGG-Sourcebans Theme
 Sourcebans ++ Theme for PancakesGG
 
 ### Live Demo:  https://bans.pancakes.tf
