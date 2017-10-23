@@ -1,5 +1,6 @@
 # PancakesGG-Sourcebans Theme
 Sourcebans ++ Theme for PancakesGG
+Using v1.6.3-git551
 
 ### Live Demo:  https://bans.pancakes.tf
 
