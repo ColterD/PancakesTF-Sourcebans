@@ -1,4 +1,4 @@
-# PancakesGG-Sourcebans Theme
+# PancakesTF-Sourcebans Theme
 Sourcebans ++ Theme for PancakesTF
 Using v1.6.3-git571
 
